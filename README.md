@@ -2,7 +2,7 @@
 
 **I'm currently learning React.js**
 
-### Technologies:
+### 💻 Technologies:
 
 - HTML
 - CSS
@@ -14,6 +14,6 @@
 - Github
 - Visual Studio Code
 
-### Contact:
+### ✉️ Contact:
 
 - kamil.sobik@gmail.com
