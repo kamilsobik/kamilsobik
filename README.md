@@ -4,9 +4,11 @@
 
 ### Technologies:
 
-- HTML5
+- HTML
 - CSS
 - SCSS
+- Bootstrap
+- Ant Design
 - JavaScript
 - Ember.js
 - Github
