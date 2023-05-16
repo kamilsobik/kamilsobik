@@ -8,7 +8,7 @@ I'm passionate about learning new technologies and understand there is more than
 I am a quick learner and can pick up new tech stacks as needed. I believe that being a great developer is not using one specific language, but choosing the best tool for the job.
 
 * 🌍  I'm based in Polnad
-* 🖥️  See my portfolio at [my website](http://kamilsobik.netlify.app)
+* 🖥️  See my portfolio at [my website](http://kamilsobik.pl)
 * ✉️  You can contact me at [kamil.sobik@gmail.com](mailto:kamil.sobik@gmail.com)
 * 🧠  I'm learning React
 
