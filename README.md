@@ -9,7 +9,7 @@ I am a quick learner and can pick up new tech stacks as needed. I believe that b
 
 * 🌍  I'm based in Polnad
 * 🖥️  See my portfolio at [my website](http://kamilsobik.pl)
-* ✉️  You can contact me at [kamil.sobik@gmail.com](mailto:kamil.sobik@gmail.com)
+* ✉️  You can contact me at [kontakt@kamilsobik.pl](mailto:kontakt@kamilsobik.pl)
 * 🧠  I'm learning React
 
 ### Skills
