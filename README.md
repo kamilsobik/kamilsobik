@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=kamilsobik&color=green&style=plastic)
+
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kamil
@@ -43,6 +43,9 @@ I am a quick learner and can pick up new tech stacks as needed. I believe that b
 </p>
 
 ### My GitHub Stats
+
+<a href="https://wakatime.com/@9c97cccd-88fd-45ce-8091-99b39d9fd5fd"><img src="https://wakatime.com/badge/user/9c97cccd-88fd-45ce-8091-99b39d9fd5fd.svg" alt="Total time coded since Aug 28 2022" /></a>
+![](https://komarev.com/ghpvc/?username=kamilsobik&color=green&style=plastic)
 
 <a href="http://www.github.com/kamilsobik"><img src="https://github-readme-status-git-main-kamilsobik.vercel.app/api?username=kamilsobik&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kamilsobik's GitHub stats" /></a>
 
