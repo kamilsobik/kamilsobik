@@ -47,6 +47,6 @@ I am a quick learner and can pick up new tech stacks as needed. I believe that b
 <a href="https://wakatime.com/@9c97cccd-88fd-45ce-8091-99b39d9fd5fd"><img src="https://wakatime.com/badge/user/9c97cccd-88fd-45ce-8091-99b39d9fd5fd.svg" alt="Total time coded since Aug 28 2022" /></a>
 ![](https://komarev.com/ghpvc/?username=kamilsobik&color=green&style=plastic)
 
-<a href="http://www.github.com/kamilsobik"><img src="https://github-readme-status-git-main-kamilsobik.vercel.app/api?username=kamilsobik&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kamilsobik's GitHub stats" /></a>
+<a href="http://www.github.com/kamilsobik"><img src="https://github-readme-status-kamilsobik.vercel.app/api?username=kamilsobik&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kamilsobik's GitHub stats" /></a>
 
-<a href="https://github.com/kamilsobik" align="left"><img src="https://github-readme-status-git-main-kamilsobik.vercel.app/api/top-langs/?username=kamilsobik&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/kamilsobik" align="left"><img src="https://github-readme-status-kamilsobik.vercel.app/api/top-langs/?username=kamilsobik&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
